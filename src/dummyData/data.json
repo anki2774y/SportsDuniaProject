@@ -1,0 +1,250 @@
+[
+    {
+        "collegeDetail": {
+            "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+            "location": "Chennai, Tamil Nadu",
+            "approvedBy": "AICTE",
+            "degree": "B. Tech",
+            "branch": "Computer Science Engineering",
+            "cutoff": {
+                "name": "JEE-Advanced 2023 Cutoff",
+                "cutoffNum": 144
+            }
+        },
+        "courseFee": {
+            "amount": "2,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "21,49,000",
+            "highestPackageAmt": "1,99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.6"
+        },
+        "ranking": {
+            "rank": 3,
+            "total": 131,
+            "location": "India",
+            "year": 2023
+        }
+    },
+    {
+        "collegeDetail": {
+            "name": "Parul University, Vadodara",
+            "location": "Vadodara, Gujarat",
+            "approvedBy": "AICTE, COA, PCI, INC, GNC",
+            "degree": "",
+            "branch": "",
+            "cutoff": {
+                "name": "",
+                "cutoffNum": ""
+            }
+        },
+        "courseFee": {
+            "amount": "1,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "49,000",
+            "highestPackageAmt": "99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.1"
+        },
+        "ranking": {
+            "rank": 99,
+            "total": 147,
+            "location": "India",
+            "year": 2019
+        }
+    },
+    {
+        "collegeDetail": {
+            "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+            "location": "Chennai, Tamil Nadu",
+            "approvedBy": "AICTE",
+            "degree": "B. Tech",
+            "branch": "Computer Science Engineering",
+            "cutoff": {
+                "name": "JEE-Advanced 2023 Cutoff",
+                "cutoffNum": 144
+            }
+        },
+        "courseFee": {
+            "amount": "2,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "21,49,000",
+            "highestPackageAmt": "1,99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.6"
+        },
+        "ranking": {
+            "rank": 3,
+            "total": 131,
+            "location": "India",
+            "year": 2023
+        }
+    },
+    {
+        "collegeDetail": {
+            "name": "Parul University, Vadodara",
+            "location": "Vadodara, Gujarat",
+            "approvedBy": "AICTE, COA, PCI, INC, GNC",
+            "degree": "",
+            "branch": "",
+            "cutoff": {
+                "name": "",
+                "cutoffNum": ""
+            }
+        },
+        "courseFee": {
+            "amount": "1,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "49,000",
+            "highestPackageAmt": "99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.1"
+        },
+        "ranking": {
+            "rank": 99,
+            "total": 147,
+            "location": "India",
+            "year": 2019
+        }
+    },
+    {
+        "collegeDetail": {
+            "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+            "location": "Chennai, Tamil Nadu",
+            "approvedBy": "AICTE",
+            "degree": "B. Tech",
+            "branch": "Computer Science Engineering",
+            "cutoff": {
+                "name": "JEE-Advanced 2023 Cutoff",
+                "cutoffNum": 144
+            }
+        },
+        "courseFee": {
+            "amount": "2,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "21,49,000",
+            "highestPackageAmt": "1,99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.6"
+        },
+        "ranking": {
+            "rank": 3,
+            "total": 131,
+            "location": "India",
+            "year": 2023
+        }
+    },
+    {
+        "collegeDetail": {
+            "name": "Parul University, Vadodara",
+            "location": "Vadodara, Gujarat",
+            "approvedBy": "AICTE, COA, PCI, INC, GNC",
+            "degree": "",
+            "branch": "",
+            "cutoff": {
+                "name": "",
+                "cutoffNum": ""
+            }
+        },
+        "courseFee": {
+            "amount": "1,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "49,000",
+            "highestPackageAmt": "99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.1"
+        },
+        "ranking": {
+            "rank": 99,
+            "total": 147,
+            "location": "India",
+            "year": 2019
+        }
+    },
+    {
+        "collegeDetail": {
+            "name": "Parul University, Vadodara",
+            "location": "Vadodara, Gujarat",
+            "approvedBy": "AICTE, COA, PCI, INC, GNC",
+            "degree": "",
+            "branch": "",
+            "cutoff": {
+                "name": "",
+                "cutoffNum": ""
+            }
+        },
+        "courseFee": {
+            "amount": "1,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "49,000",
+            "highestPackageAmt": "99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.1"
+        },
+        "ranking": {
+            "rank": 99,
+            "total": 147,
+            "location": "India",
+            "year": 2019
+        }
+    },
+    {
+        "collegeDetail": {
+            "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+            "location": "Chennai, Tamil Nadu",
+            "approvedBy": "AICTE",
+            "degree": "B. Tech",
+            "branch": "Computer Science Engineering",
+            "cutoff": {
+                "name": "JEE-Advanced 2023 Cutoff",
+                "cutoffNum": 144
+            }
+        },
+        "courseFee": {
+            "amount": "2,09,000",
+            "degree": "BE/B.Tech.",
+            "year": "1st year Fees"
+        },
+        "placement": {
+            "avgPackageAmt": "21,49,000",
+            "highestPackageAmt": "1,99,00,000"
+        },
+        "userReviews": {
+            "rating": "8.6"
+        },
+        "ranking": {
+            "rank": 3,
+            "total": 131,
+            "location": "India",
+            "year": 2023
+        }
+    }
+]
