@@ -1,0 +1,171 @@
+.collegesCnt {
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+
+.collegesCnt .clgP1 {
+    display: flex;
+
+}
+
+.collegesCnt .clgP1 .imgCnt {
+    width: 25%;
+    height: 25%;
+}
+
+.collegesCnt .clgP1 .imgCnt img {
+    width: 100%;
+    height: 100%;
+}
+
+.collegesCnt .clgP1 .clgDetail {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2.5%;
+}
+
+.collegesCnt .clgP1 .clgDetail .clgName {
+    color: blue;
+    margin: 2.5%;
+}
+
+.clgLocation {
+    margin: 0 2.5%;
+    margin-bottom: 4%;
+}
+
+.branchDetail {
+    display: flex;
+    flex-direction: column;
+    margin: 0 2.5%;
+    background-color: rgb(253, 253, 167);
+    /* border-left-color: red;
+    border-width: 2px; */
+    border-radius: 10px;
+    padding: 2%;
+}
+
+.branch {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0;
+    justify-content: space-between;
+}
+
+.branchName {
+    color: orange;
+    margin: 0;
+}
+
+.cutOff {
+    margin: 0;
+}
+
+.clgP2 {
+    justify-content: space-around;
+}
+
+.clgP2, .applyNow, .downloadBrochure, .compare {
+    display: flex;
+    flex-direction: row;
+}
+
+.applyNow, .downloadBrochure, .compare  {
+    align-items: center;
+}
+
+.applyNow p {
+    color: orange;
+}
+
+
+
+.addToCompare label {
+    width: fit-content;
+}
+
+.compareFees, .comparePlacement {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* - user reviews - */
+.userReviews {
+    
+}
+
+.bestInSocialLife {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+    background-color: yellow;
+    justify-content: space-evenly;
+    margin: 0;
+    border-radius: 10px;
+}
+
+.bestInSocialLife p {
+    margin: 0 2.5%;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* - ranking - */
+.ranking {
+   margin: 0 2.5%;
+}
+
+.rank {
+    
+}
+
+
+
+
+
+
+
+/* - ICON - */
+.dropdownIcon {
+    width: 10%;
+    height: 40%;
+    /* color: orange; */
+}
+
+.arrowRightIcon {
+    width: 10%;
+    height: 15%;
+}
+
+.downloadicon {
+    width: 10%;
+    height: 30%;
+}
+
+.compareFeeIcon, .comparePlacementIcon{
+    width: 10%;
+    height: 30%;
+}
+
+.newsIcon {
+    width: 10%;
+    height: 20%;
+}
+
+.dot {
+    width: 5%;
+    height: 5%;
+    margin: 0 2.5%;
+}
+
+.checkIcon {
+    width: 7.5%;
+    height: 15%;
+}
