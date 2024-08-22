@@ -1,0 +1,28 @@
+.styledTable {
+    width: 95%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+    align-self: center;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+
+.styledTable thead tr {
+    /* background-color: #009879; */
+    /* color: #ffffff; */
+    text-align: left;
+}
+
+.sortOrSearch {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sort {
+    display: flex;
+    align-items: center;
+}
